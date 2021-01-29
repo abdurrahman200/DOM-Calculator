@@ -57,7 +57,7 @@ body::after {
   font-size: 30px;
   background: transparent;
   color: #fff;
-  border-bottom: 3px solid rgb(8, 195, 252);
+  border-bottom: 3px solid rgb(3, 158, 206);
   border-right: 1px solid rgba(255, 255, 255, 0.05);
 }
 .container .calculator span {
